@@ -1,1 +1,19 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRA-CDB-001",
+        "nome": "Martinazzi",
+        "localita": "Casa del Bosco",
+        "comune": "Sostegno",
+        "doc": "Bramaterra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3004659, 45.6281538]
+      }
+    }
+  ]
+}
